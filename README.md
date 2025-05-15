@@ -1,5 +1,7 @@
 # 🧠 Brain Glitch Assistant – Output-Driven Architecture (ODA)
 
+Demo URL : https://youtu.be/ywnK_73GwHI?si=nk2qKZgpysqAtv--
+
 **Brain Glitch Assistant** is an AI Insight Engine built on the concept of **Output-Driven Architecture (ODA)**.  
 Instead of just responding to input, it guides users toward their end goals through concise, strategic insights.
 
